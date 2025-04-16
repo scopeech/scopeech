@@ -3,8 +3,7 @@
 Take a seat, grab some coffee ☕, and let's get to know each other!  
 
 ## 🤖 Who am I?  
-I'm just a coding enthusiast who loves experimenting with **C#**, and **backend magic**.  
-A little bit of **game dev, bots, Docker, and everything in between**.  
+I'm just a coding enthusiast who loves experimenting with **Python**, and **backend magic**.   
 
 ## 🛠 What do I do?  
 🔹 Making **cool projects** & breaking things (sometimes on purpose 😏)  
